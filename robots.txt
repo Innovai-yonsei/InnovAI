@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://innovai-yonsei.github.io/innovai//sitemap.xml
+Sitemap: https://Innovai-yonsei.github.io/sitemap.xml
