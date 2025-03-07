@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/photos/";
           },
-        },{id: "post-flame-model",
+        },{id: "post-facewarehouse",
+      
+        title: "FaceWarehouse",
+      
+      description: "FaceWarehouse: a 3D Facial Expression Database for Visual Computing",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/FaceWarehouse/";
+        
+      },
+    },{id: "post-flame-model",
       
         title: "FLAME Model",
       
@@ -72,9 +83,9 @@ ninja.data = [{
           description: "2025/02/17 (Mon) 14:00 D403",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-march-week-1-seminar",
+          title: 'March : Week 1 Seminar',
+          description: "2025/03/07 (Fri) 15:00 D404",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
