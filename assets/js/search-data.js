@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-25-1-innovai-schedule",
+          title: '25-1 InnovAI Schedule',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-kickoff-meeting",
           title: 'Kickoff Meeting',
           description: "2025/02/17 (Mon) 14:00 D403",
