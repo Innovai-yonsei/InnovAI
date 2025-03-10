@@ -6,5 +6,5 @@ inline: false
 related_posts: false
 ---
 
-Schedule: Every Thursday, 19:00 - 21:30
+Schedule: Every Thursday, 19:00 - 21:30 \\
 Location: Engineering Building 4, Room 407 (D407)
