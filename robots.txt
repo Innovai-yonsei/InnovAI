@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://innovai-yonsei.yonsei.ac.kr//sitemap.xml
+Sitemap: https://innovai.yonsei.ac.kr//sitemap.xml
