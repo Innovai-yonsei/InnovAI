@@ -104,9 +104,9 @@ ninja.data = [{
           description: "2025/03/07 (Fri) 15:00 D404",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-march-week-2-seminar",
+          title: 'March : Week 2 Seminar',
+          description: "2025/03/13 (Thu) 19:00 D407",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
