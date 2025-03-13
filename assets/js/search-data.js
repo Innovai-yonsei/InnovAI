@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/photos/";
           },
-        },{id: "post-facewarehouse",
+        },{id: "post-stylealigned",
+      
+        title: "StyleAligned",
+      
+      description: "Style Aligned Image Generation via Shared Attention",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/StyleAligned/";
+        
+      },
+    },{id: "post-facewarehouse",
       
         title: "FaceWarehouse",
       
