@@ -77,7 +77,7 @@ _styles: >
 
 Date : 2025/03/13
 
-Presentator : Lee, Sunghun
+Presentator : Lee, Seonghun
 
 <img src="/assets/img/250313/250313_이성훈_StyleAligned_page-0001.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
 <img src="/assets/img/250313/250313_이성훈_StyleAligned_page-0002.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
