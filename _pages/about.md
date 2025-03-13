@@ -31,9 +31,9 @@ latest_posts:
 
 <h3>Key Topics</h3>
 <ul>
-  <li>Text-to-Image</li>
+  <li>Gen2D</li>
   <li>Avatar</li>
-  <li>Text-to-3D</li>
+  <li>Gen3D</li>
 </ul>
 
 <h3>Activities</h3>

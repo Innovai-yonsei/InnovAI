@@ -50,9 +50,9 @@ pagination:
             <img src="{{ tag_image | relative_url }}" class="card-img-top" alt="{{ tag_name }}">
             <div class="card-body text-center">
               {% case tag_name %}
-                {% when 'Text-to-Image' %}
+                {% when 'Gen2D' %}
                   <i class="fa-solid fa-image fa-2x"></i>
-                {% when 'Text-to-3D' %}
+                {% when 'Gen3D' %}
                   <i class="fa-solid fa-cube fa-2x"></i>
                 {% when 'Avatar' %}
                   <i class="fa-solid fa-user-circle fa-2x"></i>

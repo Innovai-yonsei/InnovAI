@@ -2,7 +2,7 @@
 layout: distill
 title: FaceWarehouse
 description:  " FaceWarehouse: a 3D Facial Expression Database for Visual Computing "
-tags: Text-to-3D
+tags: Gen3D
 giscus_comments: true
 date: 2025-03-07
 featured: false
@@ -82,44 +82,44 @@ Date : 2025/03/07
 
 Presentator : Gang, Hyunjin
 
-<img src="/assets/img/250307_강현진_page-0001.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0001.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
 
 ## Abstract
 
-<img src="/assets/img/250307_강현진_page-0002.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0003.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0004.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0002.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0003.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0004.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
 
 ## Background
 
-<img src="/assets/img/250307_강현진_page-0005.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0006.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0007.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0008.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0009.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0010.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0005.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0006.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0007.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0008.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0009.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0010.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
 
 ## Process
 
-<img src="/assets/img/250307_강현진_page-0011.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0012.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0013.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0014.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0015.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0016.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0017.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0018.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0019.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0020.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0011.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0012.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0013.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0014.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0015.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0016.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0017.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0018.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0019.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0020.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
 
 ## Applications
 
-<img src="/assets/img/250307_강현진_page-0021.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0022.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0023.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0024.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0021.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0022.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0023.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0024.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
 
 
 ## Conclusion
-<img src="/assets/img/250307_강현진_page-0025.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
-<img src="/assets/img/250307_강현진_page-0026.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0025.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
+<img src="/assets/img/250307/250307_강현진_page-0026.jpg" alt="FaceWarehouse" style="max-width:100%; height:auto;">
